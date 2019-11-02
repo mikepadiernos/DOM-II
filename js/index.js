@@ -27,6 +27,17 @@ destImage.addEventListener('mouseleave', () => {
     destImage.style.transform = 'scale(1)';
 });
 
+const btnHover = document.querySelector('.btn');
+btnHover.addEventListener('wheel', () => {
+        btnHover.style.borderRadius = '3px';
+    });
+console.log(btnHover);
+
+const reset = document.querySelector('.footer p');
+reset.addEventListener('contextmenu', () => {
+    reset.style.fontSize = '1.8rem';
+});
+
 const noRefresh = document.querySelectorAll('.nav-link');
 noRefresh.forEach(link => {
     link.addEventListener('click', (event) => {
