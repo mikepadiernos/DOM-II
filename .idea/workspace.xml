@@ -29,7 +29,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="liveEdit" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
   </component>
   <component name="RemoteSynchronizer">
     <option name="targetMappings">
@@ -74,6 +74,7 @@
       <updated>1572658245720</updated>
       <workItem from="1572658247392" duration="1084000" />
       <workItem from="1572659432919" duration="7123000" />
+      <workItem from="1572884091239" duration="1545000" />
     </task>
     <servers />
   </component>
